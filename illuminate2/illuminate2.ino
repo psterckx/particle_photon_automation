@@ -1,3 +1,7 @@
+// Peter Sterckx 
+// Created April 2019
+// petersterckx.com
+
 int desk = D3;
 int bed = D2;
 int lamp = D1;
